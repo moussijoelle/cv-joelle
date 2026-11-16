@@ -1,12 +1,11 @@
-﻿# CV Joelle Moussi (HTML/CSS)
+# CV — Joelle Moussi (HTML/CSS)
 
-Currículum multipágina en HTML y CSS: educación, experiencia, idiomas, skills, etc.
+Currículum en varias páginas HTML, con CSS propio (sin framework).
 
 ## Qué hace
 
-- Página principal del CV con navegación
-- Secciones en HTML aparte: educación, certificados, experiencia, idiomas, tecnología, soft skills, aficiones, lista
-- Estilos propios en `css/`
+- Portada con navegación
+- Secciones: educación, certificados, experiencia, idiomas, tecnología, soft skills, aficiones…
 
 ## Cómo probarlo
 
@@ -16,12 +15,11 @@ Demo: https://moussijoelle.github.io/cv-joelle/
 
 ## Cómo lo construí
 
-- HTML + CSS (sin framework)
-- Imágenes en `img/`
+HTML multipágina + `css/estilos.css`. Imágenes en `img/`.
 
 ## Cómo verificarlo
 
-Sin tests. Recorro el menú y compruebo que cada sección abra.
+Recorro el menú entero y reviso que no se rompa el layout al cambiar de sección.
 
 ---
 
